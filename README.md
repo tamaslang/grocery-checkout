@@ -9,5 +9,5 @@ The following discounts are available:
 
 ### Compile & Run
 ```
-sbt compilet test
+sbt compile test
 ```
